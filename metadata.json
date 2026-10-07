@@ -1,0 +1,6 @@
+{
+  "name": "Classroom Photo Slideshow",
+  "description": "우리반 사진 슬라이드쇼 - 학급 추억 사진과 배경 음악을 감상할 수 있는 감성적이고 부드러운 교실 사진 슬라이드쇼 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
